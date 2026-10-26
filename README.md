@@ -30,5 +30,5 @@ This repository contains experimental reports, circuit schematics, measurement d
 electric-circuits-laboratory/
 ├── README.md
 └── Lab01_AVO_Meter/
-    ├── AVO_Meter_Report.pdf
-    └── images/             # Optional circuit schematics or breadboard setups
+    ├── report.pdf
+    └── EEE223 Experiment 1.pdf/             # Optional circuit schematics or breadboard setups
